@@ -1,5 +1,7 @@
 # Triangle Light Maze Solver
 
+Created and maintained by [Jingming Liang](https://github.com/eprogressing), hosted under [Lamplighter Commons](https://github.com/lamplighter-commons).
+
 An interactive visualization of dynamic programming. Build a triangular maze, mark its glowing nodes, and find a path from the top to the bottom that collects the most lights.
 
 **[Open the live demo](https://lamplighter-commons.github.io/triangle-light-maze-solver/)** · [中文说明](README.zh-CN.md) · [Report an issue](https://github.com/lamplighter-commons/triangle-light-maze-solver/issues)
